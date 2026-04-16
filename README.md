@@ -1,6 +1,6 @@
-# docker_proxy_tg_API
+# docker_proxy_tg_API v2.0
 
-Telegram API Proxy Service для Docker и CI/CD
+Telegram API Proxy Service (Версия 2.0) для Docker и CI/CD
 
 ## Описание
 
